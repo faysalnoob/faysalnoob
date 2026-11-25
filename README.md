@@ -53,7 +53,7 @@
 ### 🛠️ Technologies & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,java,python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,js,php,mysql,java,python,git,github,vscode" />
 </p>
 
 ### 🚀 Featured Projects
