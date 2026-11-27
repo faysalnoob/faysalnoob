@@ -20,12 +20,12 @@ I am a final-year Computer Science student interested in turning business requir
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/project-highlights-still-mobile.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-highlights-still.svg">
   <source media="(max-width: 600px)" srcset="assets/project-highlights-mobile.svg">
-  <img src="assets/project-highlights.svg" width="1200" alt="Illustrative project cards for CattleMart in C-sharp and .NET, and AIUB Token Management in PHP.">
+  <img src="assets/project-highlights.svg" width="1200" alt="Illustrative project cards for CattleMart, AIUB Token Management and a student marketplace and rental platform.">
 </picture>
 
 - [CattleMart](https://github.com/faysalnoob/CattleMart) — C# cattle buying and selling platform.
 - [AIUB Token Management System](https://github.com/faysalnoob/AIUB-Token-Management-System) — PHP-based university token management.
-- [Portfolio source](https://github.com/faysalnoob/faysalnoob.portfolio) — portfolio website project.
+- [Student Marketplace and Rental](https://github.com/lucky17112000/student-marketplae-and-rental-) — campus marketplace and rental platform.
 
 ## Research contribution
 
