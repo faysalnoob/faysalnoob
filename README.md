@@ -1,77 +1,29 @@
-
 <p align="center">
-  <img src="Information Systems Analyst Banner.png" width="100%" />
+  <img src="Information Systems Analyst Banner.png" alt="Faysal Alam - Information Systems Analyst" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Faysal Alam</h1>
+<h1 align="center">Faysal Alam</h1>
+<p align="center"><strong>CSE Student | Information Systems Analyst | Bridging Business &amp; Technology</strong></p>
 
-<h3 align="center">
-  Computer Science and Engineering | Aspiring Information Systems Analyst
-</h3>
+## About
 
+- Computer Science and Engineering student at AIUB.
+- Interested in information systems, business process analysis, and data-informed solutions.
+- Building practical web and management systems through projects and coursework.
 
-<h3>📊 Information Systems & Data Analysis</h3>
+## Selected work
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,python" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-</p>
+- [AIUB Token Management System](https://github.com/faysalnoob/AIUB-Token-Management-System) - PHP-based university token management system.
+- [CattleMart](https://github.com/faysalnoob/CattleMart) - C# and .NET cattle trading management system.
+- [Portfolio](https://github.com/faysalnoob/faysalnoob.portfolio) - portfolio website source.
+- [Unnoticed Disclosure: Readers Do Not Register AI Source Labels on De-Influencing Content](https://github.com/faysalnoob/Unnoticed-Disclosure-Readers-Do-Not-Register-AI) - highlighted working manuscript on AI source-label recall and de-influencing content.
 
-<h3>💻 Programming & Web Development</h3>
+## Tools and technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,cs,cpp" />
-</p>
+- **Programming and web:** HTML, CSS, JavaScript, PHP, Java, C#, C++, Python
+- **Data and analysis:** SQL/MySQL, Excel, Power BI
+- **Tools:** Git, GitHub, VS Code, Jira, Figma
 
-<h3>📋 Business Analysis & Project Management</h3>
+## Areas of interest
 
-<p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-<h3>🛠️ Development Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-<p align="center">
-  Bridging Business & Technology
-</p>
-
-### 👨‍💻 About Me
-
-- 🎓 Computer Science Student at AIUB
-- 🎯 Aspiring Information Systems Analyst
-- 📊 Interested in Business Process Analysis
-- 🌱 Learning PHP, JavaScript, SQL and MySQL
-- 🔍 Interested in Systems Analysis and Design
-- 📈 Exploring Data Analysis and Information Systems
-
-### 🛠️ Technologies & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,js,php,mysql,java,python,git,github,vscode" />
-</p>
-
-### 🚀 Featured Projects
-
-- **TradeNest** – Campus Marketplace & Rental System
-- **AIUB Token Web App** – Token Management System
-- **Smart Stick** – Arduino-based Assistive Project
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faysalnoob&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=faysalnoob&theme=tokyonight" />
-</p>
-
-### 📫 Connect With Me
-
-- GitHub: https://github.com/faysalnoob
+Information systems analysis, business process analysis, and data analysis.
