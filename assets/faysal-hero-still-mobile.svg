@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="530" viewBox="0 0 720 530" role="img" aria-labelledby="title desc">
+<title id="title">Faysal Alam profile banner</title><desc id="desc">A gentle animated workflow from understanding business needs through systems analysis, data analysis and web development.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071923"/><stop offset="1" stop-color="#102c35"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#2b9c88" stop-opacity=".25"/><stop offset="1" stop-color="#2b9c88" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ed6ce" stroke-opacity=".07" stroke-width="1"/></pattern>
+</defs><rect width="720" height="530" rx="24" fill="url(#bg)"/><rect width="720" height="530" rx="24" fill="url(#grid)"/><ellipse cx="490" cy="345" rx="310" ry="245" fill="url(#glow)"/>
+<text x="42" y="65" fill="#79dec4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2">COMPUTER SCIENCE · AIUB</text>
+<text x="40" y="124" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="44" font-weight="700">Faysal Alam</text>
+<text x="42" y="162" fill="#c0d5d4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Systems analysis · data · web development</text>
+<text x="42" y="190" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13">B.Sc. CSE · expected 2027</text>
+<rect x="30" y="235" width="660" height="270" rx="22" fill="#0b222b" stroke="#3b646b" stroke-opacity=".8"/>
+<text x="52" y="279" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.7">FROM BUSINESS NEED TO SOFTWARE</text>
+<circle cx="650" cy="55" r="5" fill="#f4c27a" opacity=".55"/><path d="M193 386H207 M352 386H366 M511 386H525" fill="none" stroke="#79dec4" stroke-opacity=".48" stroke-width="2" stroke-dasharray="3 9"/><g>
+      <rect x="48" y="326" width="145" height="120" rx="15" fill="#102a34" stroke="#4b777a" stroke-opacity=".72"/>
+      <circle cx="67" cy="346" r="4" fill="#79dec4"/>
+      <text x="79" y="350" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.4">01</text>
+      <text x="62" y="381" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Discover</text>
+      <text x="62" y="405" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Needs and</text>
+      <text x="62" y="421" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">goals</text>
+    </g><g>
+      <rect x="207" y="326" width="145" height="120" rx="15" fill="#102a34" stroke="#4b777a" stroke-opacity=".72"/>
+      <circle cx="226" cy="346" r="4" fill="#79dec4"/>
+      <text x="238" y="350" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.4">02</text>
+      <text x="221" y="381" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Model</text>
+      <text x="221" y="405" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Systems and</text>
+      <text x="221" y="421" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">workflows</text>
+    </g><g>
+      <rect x="366" y="326" width="145" height="120" rx="15" fill="#102a34" stroke="#4b777a" stroke-opacity=".72"/>
+      <circle cx="385" cy="346" r="4" fill="#79dec4"/>
+      <text x="397" y="350" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.4">03</text>
+      <text x="380" y="381" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Analyze</text>
+      <text x="380" y="405" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Data and</text>
+      <text x="380" y="421" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">evidence</text>
+    </g><g>
+      <rect x="525" y="326" width="145" height="120" rx="15" fill="#102a34" stroke="#4b777a" stroke-opacity=".72"/>
+      <circle cx="544" cy="346" r="4" fill="#79dec4"/>
+      <text x="556" y="350" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.4">04</text>
+      <text x="539" y="381" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Build</text>
+      <text x="539" y="405" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Web and</text>
+      <text x="539" y="421" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">software</text>
+    </g><circle cx="200" cy="386" r="4" fill="#f4c27a" opacity=".85"/><circle cx="359" cy="386" r="4" fill="#f4c27a" opacity=".85"/><circle cx="518" cy="386" r="4" fill="#f4c27a" opacity=".85"/>
+<text x="52" y="480" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Illustrative workflow · not live telemetry</text>
+</svg>

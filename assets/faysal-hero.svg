@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Faysal Alam profile banner</title><desc id="desc">A gentle animated workflow from understanding business needs through systems analysis, data analysis and web development.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071923"/><stop offset="1" stop-color="#102c35"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#2b9c88" stop-opacity=".25"/><stop offset="1" stop-color="#2b9c88" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9ed6ce" stroke-opacity=".07" stroke-width="1"/></pattern>
+</defs><rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/><ellipse cx="872" cy="180" rx="370" ry="220" fill="url(#glow)"/>
+<path d="M0 316 C220 276 374 364 610 320" fill="none" stroke="#79dec4" stroke-opacity=".12" stroke-width="2"/>
+<text x="62" y="75" fill="#79dec4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">COMPUTER SCIENCE · AIUB</text>
+<text x="60" y="143" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">Faysal Alam</text>
+<text x="62" y="183" fill="#c0d5d4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Systems analysis · databases · data analysis</text>
+<text x="62" y="212" fill="#c0d5d4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Web development · C# · PHP · Python</text>
+<line x1="62" y1="250" x2="520" y2="250" stroke="#4c797b" stroke-opacity=".65"/>
+<text x="62" y="282" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.7">TURNING BUSINESS NEEDS INTO USEFUL SOFTWARE</text>
+<rect x="650" y="40" width="505" height="280" rx="22" fill="#0b222b" stroke="#3b646b" stroke-opacity=".8"/>
+<text x="680" y="83" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">HOW I APPROACH A PROBLEM</text>
+<circle cx="1090" cy="88" r="7" fill="#f4c27a" opacity=".38"><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5s" repeatCount="indefinite"/></circle><path d="M784 182H796 M898 182H910 M1012 182H1024" fill="none" stroke="#79dec4" stroke-opacity=".58" stroke-width="2" stroke-dasharray="7 13"><animate attributeName="stroke-dashoffset" values="0;-80" dur="6s" repeatCount="indefinite"/></path><g>
+      <rect x="682" y="126" width="102" height="112" rx="15" fill="#102a34" stroke="#4b777a" stroke-opacity=".72"/>
+      <circle cx="701" cy="146" r="4" fill="#79dec4"/>
+      <text x="713" y="150" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.4">01</text>
+      <text x="696" y="184" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Discover</text>
+      <text x="696" y="206" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Needs and</text>
+      <text x="696" y="222" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">goals</text>
+    </g><g>
+      <rect x="796" y="126" width="102" height="112" rx="15" fill="#102a34" stroke="#4b777a" stroke-opacity=".72"/>
+      <circle cx="815" cy="146" r="4" fill="#79dec4"/>
+      <text x="827" y="150" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.4">02</text>
+      <text x="810" y="184" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Model</text>
+      <text x="810" y="206" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Systems and</text>
+      <text x="810" y="222" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">workflows</text>
+    </g><g>
+      <rect x="910" y="126" width="102" height="112" rx="15" fill="#102a34" stroke="#4b777a" stroke-opacity=".72"/>
+      <circle cx="929" cy="146" r="4" fill="#79dec4"/>
+      <text x="941" y="150" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.4">03</text>
+      <text x="924" y="184" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Analyze</text>
+      <text x="924" y="206" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Data and</text>
+      <text x="924" y="222" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">evidence</text>
+    </g><g>
+      <rect x="1024" y="126" width="102" height="112" rx="15" fill="#102a34" stroke="#4b777a" stroke-opacity=".72"/>
+      <circle cx="1043" cy="146" r="4" fill="#79dec4"/>
+      <text x="1055" y="150" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="10" letter-spacing="1.4">04</text>
+      <text x="1038" y="184" fill="#f4f5e9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">Build</text>
+      <text x="1038" y="206" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Web and</text>
+      <text x="1038" y="222" fill="#afc7c8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">software</text>
+    </g><circle cx="790" cy="182" r="4" fill="#f4c27a"><animate attributeName="r" values="3;5;3" dur="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="3.2s" repeatCount="indefinite"/></circle><circle cx="904" cy="182" r="4" fill="#f4c27a"><animate attributeName="r" values="3;5;3" dur="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="3.2s" repeatCount="indefinite"/></circle><circle cx="1018" cy="182" r="4" fill="#f4c27a"><animate attributeName="r" values="3;5;3" dur="3.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;1;.55" dur="3.2s" repeatCount="indefinite"/></circle>
+<path d="M682 272H1126" fill="none" stroke="#3a646b" stroke-width="1"/><circle cx="682" cy="272" r="3" fill="#79dec4"/>
+<text x="682" y="296" fill="#91b9b8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="11">Illustrative workflow · not live telemetry</text>
+</svg>
